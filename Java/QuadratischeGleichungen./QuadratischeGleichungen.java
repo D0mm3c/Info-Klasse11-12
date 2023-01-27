@@ -8,7 +8,7 @@ import javax.swing.event.*;
  * Beschreibung
  *
  * @version 1.0 vom 23.01.2023
- * @author 
+ * @author D0mm3c
  */
 
 public class QuadratischeGleichungen extends JFrame {
